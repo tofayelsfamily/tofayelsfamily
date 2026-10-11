@@ -1,9 +1,9 @@
 # Hi there, I'm Tofayel Amin 👋
-### Senior Full-Stack Laravel & WordPress Engineer | Founder of WPFIA ⚡
+### Full-Stack Laravel & WordPress Developer | Founder @WPFIA ⚡
 
 <p align="left">
   <a href="https://wpfia.com"><img src="https://img.shields.io/badge/Website-wpfia.com-2563eb?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
-  <a href="mailto:tofayelamin.official@gmail.com"><img src="https://img.shields.io/badge/Contact-Hire%20Me-10b981?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="mailto:info@wpfia.com"><img src="https://img.shields.io/badge/Email-info%40wpfia.com-10b981?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://linkedin.com/in/tofayelamin"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
 
@@ -11,12 +11,12 @@
 
 ## 👨‍💻 About Me
 
-I am a passionate **Full-Stack Web Engineer** and the founder of **[WPFIA Solutions](https://wpfia.com)**. With 6+ years of specialized experience, I architect enterprise-grade WordPress/WooCommerce plugins, scalable Laravel applications, and high-performance browser automation systems.
+I am a dedicated **Full-Stack Laravel & WordPress Developer** and the founder of **[WPFIA](https://wpfia.com)**. With 6+ years of specialized experience, I architect enterprise-grade WordPress/WooCommerce plugins, scalable Laravel applications, and high-performance web automations.
 
-- 🏢 **Founder & Lead Architect:** [WPFIA Solutions](https://wpfia.com)
-- 🚀 **Specializations:** High-Speed WooCommerce Plugins, Custom REST APIs, Laravel Applications, Database Optimization & Cyber Security.
+- 🏢 **Founder & Lead Developer:** [WPFIA](https://wpfia.com)
+- 🚀 **Specializations:** High-Speed WooCommerce Plugins, Custom REST APIs, Laravel Web Applications, Database Optimization & Web Security.
 - ⚡ **Current Focus:** Expanding the WPFIA software suite across WordPress.org, marketplace ecosystems, and headless architectures.
-- 💬 **Ask me about:** WordPress Plugin Architecture, WooCommerce Hooks & Filters, React SPAs, and Performance Tuning.
+- 💬 **Ask me about:** WordPress Plugin Development, WooCommerce Hooks & Filters, Laravel MVC, and Performance Tuning.
 
 ---
 
@@ -32,7 +32,7 @@ I am a passionate **Full-Stack Web Engineer** and the founder of **[WPFIA Soluti
 
 ### **Frontend & Tools**
 ![JavaScript](https://img.shields.io/badge/JavaScript_ES6+-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React_JS-61DAFB?style=flat-square&logo=react&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Chrome Extensions](https://img.shields.io/badge/Chrome_Extensions_MV3-4285F4?style=flat-square&logo=google-chrome&logoColor=white)
@@ -62,4 +62,4 @@ I am a passionate **Full-Stack Web Engineer** and the founder of **[WPFIA Soluti
 ## 📬 Let's Connect & Collaborate
 - 🌐 **Portfolio & Agency:** [wpfia.com](https://wpfia.com)
 - 💼 **LinkedIn:** [linkedin.com/in/tofayelamin](https://linkedin.com/in/tofayelamin)
-- 📧 **Direct Inquiries:** [tofayelamin.official@gmail.com](mailto:tofayelamin.official@gmail.com)
+- 📧 **Direct Inquiries:** [info@wpfia.com](mailto:info@wpfia.com)
