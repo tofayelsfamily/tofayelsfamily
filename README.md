@@ -46,7 +46,6 @@ I am a dedicated **Full-Stack Laravel & WordPress Developer** and the founder of
 | **WPFIA Currency Switcher** | Instant multi-currency switching with auto geo-detection & zero-reload AJAX for WooCommerce. | [View Repository ↗](https://github.com/tofayelsfamily/wpfia-currency-switcher) | [wpfia.com ↗](https://wpfia.com/plugins/currency-switcher) |
 | **WPFIA Safe SVG** | Enterprise SVG upload sanitizer, XML bomb shield & anti-XSS security for WordPress. | [View Repository ↗](https://github.com/tofayelsfamily/wpfia-safe-svg) | [wpfia.com ↗](https://wpfia.com/plugins/safe-svg) |
 | **WPFIA Fake Order Shield** | Automated Cash on Delivery fraud prevention, disposable email blocker & bot velocity shield. | [View Repository ↗](https://github.com/tofayelsfamily/wpfia-fake-order-shield) | [wpfia.com ↗](https://wpfia.com/plugins/fake-order-shield) |
-| **WPFIA Autofill** | Manifest V3 Chrome Extension for 1-click job application and form automation. | 🔒 *Private Repository* | [wpfia.com ↗](https://wpfia.com/plugins/autofill) |
 
 ---
 
